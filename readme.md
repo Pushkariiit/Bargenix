@@ -32,7 +32,8 @@ Validation failure due to wrong product id : <br/>
 
 <br/>
 Get logs Endpoint : ``` http://localhost:3000/api/coupons/logs``` <br/>
-![image](https://github.com/user-attachments/assets/7e2f8c0a-b99f-42a4-8eea-30fe089ff88a)
+![image](https://github.com/user-attachments/assets/cf8198f8-12e5-40b6-b542-cc94b8e1817f)
+
 
 
 <br/>
