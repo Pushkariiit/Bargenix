@@ -10,7 +10,7 @@ Step 4 -> ``` npm start ``` <br/>
 
 Api Endpoints:
 
-![image](https://github.com/user-attachments/assets/3ac93d63-fce5-4fcc-b3dd-775fba9b4405)
+![image](https://github.com/user-attachments/assets/0de160e6-7b13-40ae-ac17-7c6bd75bd93c)
 
 Generate Coupons Endpoint : http://localhost:3000/api/coupons/generate
 
@@ -24,10 +24,15 @@ in the header section add content-type : Application/JSON
 
 ![image](https://github.com/user-attachments/assets/e3ffef3b-5a21-4785-afe8-635cbb68ad18)
 
-Validation fails if token or product-id is differernt than token recieved during generating coupon or product-id used during generating coupon.
+Validation fails if token or product-id is differernt than token recieved during generating coupon or product-id used during generating coupon. <br/>
 
-Validation failure due to wrong product id : 
+Validation failure due to wrong product id : <br/>
 
 ![image](https://github.com/user-attachments/assets/34e3cc73-f6e8-4de2-91bb-651c171199d7)
+
+<br/>
+Get logs Endpoint : ``` http://localhost:3000/api/coupons/logs``` <br/>
+![image](https://github.com/user-attachments/assets/7e2f8c0a-b99f-42a4-8eea-30fe089ff88a)
+
 
 <br/>
