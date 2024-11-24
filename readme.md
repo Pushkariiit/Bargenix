@@ -30,10 +30,9 @@ Validation failure due to wrong product id : <br/>
 
 ![image](https://github.com/user-attachments/assets/34e3cc73-f6e8-4de2-91bb-651c171199d7)
 
-<br/>
-Get logs Endpoint : ``` http://localhost:3000/api/coupons/logs``` <br/>
-![image](https://github.com/user-attachments/assets/cf8198f8-12e5-40b6-b542-cc94b8e1817f)
+Get logs Endpoint : http://localhost:3000/api/coupons/logs
 
+![image](https://github.com/user-attachments/assets/384893b2-64c9-409c-8111-3f1f3d922346)
 
 
 <br/>
