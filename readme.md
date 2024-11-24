@@ -3,10 +3,10 @@ Directory Structure:
 
 How to setup this in local computer : 
 
-Step 1 -> Clone the repository : ``` git clone https://github.com/Pushkariiit/Bargenix.git ```
-Step 2 -> cd Bargenix
-Step 3 -> ``` npm install ```
-Step 4 -> ``` npm start ```
+Step 1 -> Clone the repository : ``` git clone https://github.com/Pushkariiit/Bargenix.git ``` <br/>
+Step 2 -> cd Bargenix <br/>
+Step 3 -> ``` npm install ``` <br/>
+Step 4 -> ``` npm start ``` <br/>
 
 Api Endpoints:
 
